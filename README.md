@@ -6,6 +6,6 @@
 ##
 
 > [!IMPORTANT]  
-> *mergeArr*, *intersectArr* и *fibonacci* относятся к 1 домашнему заданию.
+> *'mergeArr.php'*, *intersectArr* и *fibonacci* относятся к 1 домашнему заданию.
 > 
 > *highTemps*, *clearPhoneNum* и *lastPartURL* относятся ко 2 домашнему заданию.
