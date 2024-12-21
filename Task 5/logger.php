@@ -13,9 +13,9 @@ class DatabaseLogger implements LoggerInterface {
     public function __construct() {
         $user = 'root';
         $password = 'mypass';
-        $db = 'php_study';
+        $db = 'log_db';
         $host = '127.0.0.1';
-        $port = 3306;
+        $port = 8800;
         $conn = mysqli_connect(hostname: $host, username: $user, password: $password, database: $db);
         $this->pdo = $conn;
     }
